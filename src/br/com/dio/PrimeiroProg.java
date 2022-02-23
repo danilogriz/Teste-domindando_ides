@@ -10,7 +10,7 @@ public class PrimeiroProg {
 		Livros livro = new Livros();
 		System.out.println(gato);
 		System.out.println(livro);
-		System.out.println("Teste de alteração");
+		//System.out.println("Teste de alteração");
 		System.out.println("Terceira vez");
 	}
 
